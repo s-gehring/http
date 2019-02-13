@@ -1,0 +1,139 @@
+{
+	"valid":[
+		{
+			"input": "Content-Type: application/json",
+			"key": "Content-Type",
+			"value": "application/json"
+		},
+		{
+			"input": "Host: net.tutsplus.com",
+			"key": "Host",
+			"value": "net.tutsplus.com"
+		},
+		{
+			"input": "User-Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.1.5) Gecko/20091102 Firefox/3.5.5 (.NET CLR 3.5.30729)",
+			"key": "User-Agent",
+			"value": "Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.1.5) Gecko/20091102 Firefox/3.5.5 (.NET CLR 3.5.30729)"
+		},
+		{
+			"input": "Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+			"key": "Accept",
+			"value": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
+		},
+		{
+			"input": "Accept-Language: en-us,en;q=0.5",
+			"key": "Accept-Language",
+			"value": "en-us,en;q=0.5"
+		},
+		{
+			"input": "Accept-Encoding: gzip,deflate",
+			"key": "Accept-Encoding",
+			"value": "gzip,deflate"
+		},
+		{
+			"input": "Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7",
+			"key": "Accept-Charset",
+			"value": "ISO-8859-1,utf-8;q=0.7,*;q=0.7"
+		},
+		{
+			"input": "Keep-Alive: 300",
+			"key": "Keep-Alive",
+			"value": "300"
+		},
+		{
+			"input": "Connection: keep-alive",
+			"key": "Connection",
+			"value": "keep-alive"
+		},
+		{
+			"input": "Cookie: PHPSESSID=r2t5uvjq435r4q7ib3vtdjq120",
+			"key": "Cookie",
+			"value": "PHPSESSID=r2t5uvjq435r4q7ib3vtdjq120"
+		},
+		{
+			"input": "Pragma: no-cache",
+			"key": "Pragma",
+			"value": "no-cache"
+		},
+		{
+			"input": "Cache-Control: no-cache",
+			"key": "Cache-Control",
+			"value": "no-cache"
+		},
+		{
+			"input": "Transfer-Encoding: chunked",
+			"key": "Transfer-Encoding",
+			"value": "chunked"
+		},
+		{
+			"input": "Date: Sat, 28 Nov 2009 04:36:25 GMT",
+			"key": "Date",
+			"value": "Sat, 28 Nov 2009 04:36:25 GMT"
+		},
+		{
+			"input": "Server: LiteSpeed",
+			"key": "Server",
+			"value": "LiteSpeed"
+		},
+		{
+			"input": "Connection: close",
+			"key": "Connection",
+			"value": "close"
+		},
+		{
+			"input": "X-Powered-By: W3 Total Cache/0.8",
+			"key": "X-Powered-By",
+			"value": "W3 Total Cache/0.8"
+		},
+		{
+			"input": "Pragma: public",
+			"key": "Pragma",
+			"value": "public"
+		},
+		{
+			"input": "Expires: Sat, 28 Nov 2009 05:36:25 GMT",
+			"key": "Expires",
+			"value": "Sat, 28 Nov 2009 05:36:25 GMT"
+		},
+		{
+			"input": "Etag: \"pub1259380237;gz\"",
+			"key": "Etag",
+			"value": "\"pub1259380237;gz\""
+		},
+		{
+			"input": "Cache-Control: max-age=3600, public",
+			"key": "Cache-Control",
+			"value": "max-age=3600, public"
+		},
+		{
+			"input": "Content-Type: text/html; charset=UTF-8",
+			"key": "Content-Type",
+			"value": "text/html; charset=UTF-8"
+		},
+		{
+			"input": "Last-Modified: Sat, 28 Nov 2009 03:50:37 GMT",
+			"key": "Last-Modified",
+			"value": "Sat, 28 Nov 2009 03:50:37 GMT"
+		},
+		{
+			"input": "X-Pingback: http://net.tutsplus.com/xmlrpc.php",
+			"key": "X-Pingback",
+			"value": "http://net.tutsplus.com/xmlrpc.php"
+		},
+		{
+			"input": "Content-Encoding: gzip",
+			"key": "Content-Encoding",
+			"value": "gzip"
+		},
+		{
+			"input": "Vary: Accept-Encoding, Cookie, User-Agent",
+			"key": "Vary",
+			"value": "Accept-Encoding, Cookie, User-Agent"
+		}
+	],
+	"invalid":[
+		{
+			"input": "Content-Type application/json"
+		}
+	]
+}
